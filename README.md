@@ -4,7 +4,7 @@ Removing the numpad from a Microsoft Natural 4000 keyboard
 
 ## Motivation
 
-I have been working on computers since an early age, but given ergonomics little to no consideration until in early 2000-teens I developed severe wrist and back palm pain from mouse and keyboard use, culminating with a forced vacation to give my hand time to heal, and using the mouse with my left hand, when had to.
+I have been working on computers since an early age, but given ergonomics little to no consideration until in early 2000-teens, when I developed severe wrist and back palm pain from mouse and keyboard use, culminating with a forced vacation to give my hand time to heal, and using the mouse with my left hand, when I really had to, or pain in my right hand was too much.
 
 I started exploring vertical or ergonomic mice and keyboards, but soon realised my posture was off-tilt due to the far right placement of the mouse, next to the numpad part of the typical keyboards.
 
