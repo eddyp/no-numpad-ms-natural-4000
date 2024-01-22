@@ -2,6 +2,8 @@
 
 Removing the numpad from a Microsoft Natural 4000 keyboard
 
+![Microsoft Natural 3333](MsNat4000_nopad-face-20240120_021435.jpg)
+
 ## Motivation
 
 I have been working on computers since an early age, but given ergonomics little to no consideration until in early 2000-teens, when I developed severe wrist and back palm pain from mouse and keyboard use, culminating with a forced vacation to give my hand time to heal, and using the mouse with my left hand, when I really had to, or pain in my right hand was too much.
